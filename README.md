@@ -3,6 +3,7 @@ COMP4601 A3 - The main objective is to have the student analyze a body of docume
 
 ## Creators
 Elisa Kazan
+
 Jack McCracken
 
 ## How to Test
